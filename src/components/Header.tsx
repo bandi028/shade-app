@@ -44,7 +44,7 @@ export default function Header() {
                 <div className="flex justify-between items-center h-20">
                     <div className="flex-shrink-0 flex items-center">
                         <Link href="/" className="text-2xl md:text-3xl font-serif font-semibold tracking-wide text-slate-900 group">
-                            Hsng <span className="text-blue-700 font-medium transition-colors group-hover:text-amber-600">& Co.</span>
+                            HSNG <span className="text-blue-700 font-medium transition-colors group-hover:text-amber-600">& Co.</span>
                         </Link>
                     </div>
 

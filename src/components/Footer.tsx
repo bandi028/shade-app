@@ -33,7 +33,7 @@ export default function Footer() {
                 <div className="xl:grid xl:grid-cols-3 xl:gap-8">
                     <div className="space-y-8 xl:col-span-1">
                         <Link href="/" className="text-3xl font-serif font-semibold tracking-wide text-white flex items-center group">
-                            Hsng <span className="text-blue-400 font-medium ml-1.5 transition-colors group-hover:text-amber-500">& Co.</span>
+                            HSNG <span className="text-blue-400 font-medium ml-1.5 transition-colors group-hover:text-amber-500">& Co.</span>
                         </Link>
                         <p className="text-gray-400 text-base max-w-sm">
                             Unlock your financial potential with expert guidance, strategic insights, and comprehensive planning.
